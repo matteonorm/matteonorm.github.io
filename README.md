@@ -16,5 +16,3 @@ docs/           CV and other documents
 ## Deployment
 
 This is a static HTML site deployed automatically via GitHub Pages from the `main` branch. Edit `index.html` directly to update content.
-
-Built on the [Theory](https://templated.co/theory) template by TEMPLATED.
