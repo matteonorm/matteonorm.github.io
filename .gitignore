@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# R artifacts
+.Rdata
+.Rhistory
+*.Rproj.user
+
+# Large data files
+*.csv
+
+# Backups
+*~
+*.bak
